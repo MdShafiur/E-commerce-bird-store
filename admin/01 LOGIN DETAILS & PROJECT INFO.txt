@@ -1,0 +1,6 @@
+**Database Name: birdstore**
+
+**Admin Login Details**
+
+Username: admin
+Password: codeastro
